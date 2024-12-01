@@ -1,0 +1,8 @@
+Date,Mileage,Load Type,Delivery Details,date,mileage,load_type,delivery_details
+,,,,01-01-2024,350.0,Refrigerated,Notes: Sample delivery 1
+,,,,01-01-2024,200.0,Dry,"Destination 2, Notes: Sample delivery 2"
+,,,,02-01-2024,450.0,Hazardous,Sample delivery
+,,,,04-01-2024,450.0,Other,Sample delivery 4
+,,,,05-01-2024,375.0,Dry,Sample delivery 5
+,,,,05-01-2024,125.0,Refrigerated,Sample delivery
+,,,,03-01-2024,500.0,Dry,test data
