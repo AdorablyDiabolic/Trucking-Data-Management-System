@@ -16,6 +16,9 @@ Click on a screenshot to view it in full size.
     <a href="photos/image1.png" target="_blank">
         <img src="photos/image1.png" alt="Screenshot 1" style="width: 200px; height: auto;">
     </a>
+    <a href="photos/image2.png" target="_blank">
+        <img src="photos/image2.png" alt="Screenshot 2" style="width: 200px; height: auto;">
+    </a>
     <a href="photos/image3.png" target="_blank">
         <img src="photos/image3.png" alt="Screenshot 3" style="width: 200px; height: auto;">
     </a>
