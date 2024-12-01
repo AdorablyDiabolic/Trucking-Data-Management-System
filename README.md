@@ -1,6 +1,8 @@
 # Trucking Data Management System Project
 
-#### Video Demo:  <URL HERE>
+### Video Demo: [Click Here](<https://youtu.be/_P6vB6NKHzQ>)
+##### Video Demo: [https://youtu.be/_P6vB6NKHzQ](<https://youtu.be/_P6vB6NKHzQ>)
+
 
 
 This project is a trucking delivery tracker I created to make my life easier when it comes to managing delivery data for a trucking business. It helps record, visualize, and analyze important metrics like mileage, load types, and delivery details. Basically, it’s a tool to keep everything organized while giving useful insights about the work I’m doing. Let me break it down for you.
